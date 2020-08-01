@@ -39,7 +39,7 @@
 
 ---
 
-<img align="left" alt="bolt12's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bolt12&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bolt12&show_icons=true&count_private=true" />
 
 
 [twitter]: https://twitter.com/_bolt12
