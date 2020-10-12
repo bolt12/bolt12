@@ -1,14 +1,11 @@
-### Hi there, I'm Armando 👋
+### Hi there! 👋
 
-## I'm a Student at University of Minho!
+## I'm a MSc student at University of Minho!
 - 🔭 I’m currently working on my Master Thesis: Selective Functors & Probabilistic Programming
-- 🌱 I’m currently learning Nix, Effect Systems, SW Engineering
-<!-- 👯 I’m looking to collaborate on ... -->
-<!-- 🤔 I’m looking for help with ... -->
+- 🌱 I’m currently learning how to derive correct programs from a specification (denotational design, algebra driven design and algebra of programming), Nix, Effect Systems, SW Engineering in general.
 - 💬 Ask me about Haskell, Functional Programming, Formal Methods, Algebra of Programming
-- 📫 How to reach me: Email, Twitter, FP Slack
 <!-- 😄 Pronouns: ... -->
-<!-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: [QuickSpec](https://hackage.haskell.org/package/quickspec) is awesome!
 
 
 ### Connect with me:
