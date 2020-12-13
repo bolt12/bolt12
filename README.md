@@ -20,7 +20,7 @@
 [<img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />]()
 [<img align="left" alt="Nix" width="26px" src="https://avatars0.githubusercontent.com/u/487568?s=200&v=4" />]()
 [<img align="left" alt="Alloy Analyzer" width="26px" src="https://avatars3.githubusercontent.com/u/30268214?v=4&s=200" />]()
-[<img align="left" alt="Coq" width="26px" src="https://avatars0.githubusercontent.com/u/621198?s=200&v=4" />]()
+[<img align="left" alt="Agda" width="26px" src="https://avatars1.githubusercontent.com/u/410000?s=200&v=4" />]()
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />]()
 [<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png" />]()
