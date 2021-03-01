@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 ## I'm a MSc student at University of Minho!
-- 🔭 I’m currently working on my Master Thesis: Selective Functors & Probabilistic Programming
+- 🔭 I’m currently working as a Haskell Consultant at Well-Typed LLP
 - 🌱 I’m currently learning how to derive correct programs from a specification (denotational design, algebra driven design and algebra of programming), Nix, Effect Systems, SW Engineering in general.
 - 💬 Ask me about Haskell, Functional Programming, Formal Methods, Algebra of Programming
 <!-- 😄 Pronouns: ... -->
