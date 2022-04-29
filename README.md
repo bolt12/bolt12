@@ -37,7 +37,7 @@
 ---
 <p align="center">
   <a href="https://github.com/bolt12/">
-    <img src="https://github.com/bolt12/bolt12/blob/0534867bbad2043eb801fc818b6fb4744e0c9d3e/github-metrics.svg" />
+    <img src="/github-metrics.svg" />
   </a>
 </p>     
 
