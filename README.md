@@ -41,3 +41,6 @@
     <img src="/metrics.plugin.chess.svg" />
   </a>
 </p>
+
+[twitter]: https://twitter.com/_bolt12
+[linkedin]: https://linkedin.com/in/armando-santos-590b4315b
