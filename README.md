@@ -36,8 +36,6 @@
 
 ---
 
-![Metrics](https://metrics.lecoq.io/bolt12?template=classic&stars=1&achievements=1&chess=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=3&achievements=false&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FLisbon)
-
 <p align="center">
   <a href="https://github.com/bolt12/">
     <img src="/metrics.plugin.chess.svg" />
