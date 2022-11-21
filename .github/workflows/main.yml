@@ -36,12 +36,6 @@ jobs:
           filename: metrics.plugin.chess.svg
           plugin_chess: yes
           plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
-          plugin_chess_animation: {
-  "size": 40,
-  "delay": 3,
-  "duration": 0.6
-}
-
           plugin_chess_platform: lichess.org
           plugin_chess_user: bolt12
           plugin_stars: yes
