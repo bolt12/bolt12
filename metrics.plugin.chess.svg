@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hsjobeki/noogle</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">https://noogle.dev - like hoogle but for nix</div>
@@ -2451,6 +2451,7 @@
               position: absolute;
               top: 0;
               left: 0;
+              font-family: monospace;
             }
             .chess-move .from, .chess-move .to, .chess-move .init {
               position: absolute;
@@ -2474,7 +2475,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Dec 2022, 07:15:50 (timezone Europe/Lisbon) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 13 Dec 2022, 08:22:36 (timezone Europe/Lisbon) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
