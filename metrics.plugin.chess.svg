@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>srid/nixos-flake</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A flake-parts module to manage NixOS and macOS machines, along with home-manager support, in a unified fashion.</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emilypi/haskell-resources</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A List of Foundational Haskell Papers</div>
@@ -523,7 +523,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 429k out of 111m users</span>
+                                    <span class="gh">ranked 429k out of 112m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">58</div>
                                     </div>
@@ -2514,7 +2514,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Mar 2023, 07:20:54 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Mar 2023, 08:15:05 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
