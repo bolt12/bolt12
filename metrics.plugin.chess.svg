@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gayanvoice/top-github-users</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Check your ranking in GitHub! Don't forget to star ⭐ this repository.</div>
@@ -262,7 +262,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>srid/nixos-flake</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A flake-parts module to manage NixOS and macOS machines, along with home-manager support, in a unified fashion.</div>
@@ -315,7 +315,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emilypi/haskell-resources</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A List of Foundational Haskell Papers</div>
@@ -2468,7 +2468,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Apr 2023, 10:14:03 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 15 Apr 2023, 11:15:40 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
