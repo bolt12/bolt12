@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ocharles/papers</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Git annex repository of papers</div>
@@ -262,7 +262,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nikitavoloboev/knowledge</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Everything I know</div>
@@ -309,7 +309,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>well-typed/unfolder</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Repository with code snippets that accompany episodes of The Haskell Unfolder</div>
@@ -2468,7 +2468,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 May 2023, 18:13:37 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 May 2023, 19:18:40 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
