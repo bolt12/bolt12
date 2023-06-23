@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nomeata/rec-def-pearl</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Source for the ICFP'23 Functional Pearl</div>
@@ -2480,7 +2480,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jun 2023, 04:33:33 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Jun 2023, 05:21:05 (timezone Europe/Lisbon) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
