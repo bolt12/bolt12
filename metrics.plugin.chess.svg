@@ -318,7 +318,7 @@
                                         <span>starred Jul 21 2023</span>
                                     </div>
                                 </div>
-                                <div class="field description">My personal Nix configuration for MacOS and NixOS (with starter templates + step-by-step guides!) ✨</div>
+                                <div class="field description">My personal Nix configuration for MacOS and NixOS w/ starter templates + step-by-step guides ✨</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3884,7 +3884,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Sept 2023, 21:15:40 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Sept 2023, 22:13:04 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
