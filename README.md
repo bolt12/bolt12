@@ -9,6 +9,7 @@ I hold a Master’s in Computer Engineering from the University of Minho, specia
 
 🔍 **Professional Experience**:  
 In addition to consulting, I'm active in the Functional Programming community and have made several open-source contributions. I am a Haskell Consultant at Well-Typed working as a Network Engineer at IOG.
+
 🛠 **Interests**:  
 Besides coding, I really enjoy cooking and learning languages!
 
